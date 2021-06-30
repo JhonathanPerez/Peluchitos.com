@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 
-from peluches import  Producto
+from productos import  Producto
 
 class ModificarProducto:
     def __init__(self, padre,idProducto, ventanaPadre):

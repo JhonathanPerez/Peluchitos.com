@@ -3,7 +3,7 @@ from tkinter import ttk
 from tkinter import messagebox
 from datetime import datetime
 
-from peluches import Producto
+from productos import Producto
 from anadir_producto import AnadirProducto
 from modificar_producto import  ModificarProducto
 from ventas import Venta

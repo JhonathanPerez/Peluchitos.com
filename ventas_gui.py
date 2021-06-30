@@ -3,7 +3,7 @@ from tkinter import messagebox
 from random import randint
 from datetime import datetime
 
-from peluches import Producto
+from productos import Producto
 from ventas import  Venta
 
 class VentasGui:

@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 
-from peluches import Producto
+from productos import Producto
 
 
 class AnadirProducto():
